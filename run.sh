@@ -1,1 +1,1 @@
-FLASK_APP=belly-Button-biodiversity/app.py flask run
+FLASK_APP=project3_airline_delay_prediction_app/airline.py flask run
